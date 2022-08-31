@@ -47,6 +47,6 @@ Personally, I love to pursue my curiosity and pick up new things. To give you on
 
 <br>
 <div> 
- <a href="[[https://www.linkedin.com/in/joy-christine-nduta-kimani-0043a1136/](https://www.linkedin.com/in/johannesheinemann/)](https://www.linkedin.com/in/johannesheinemann/)" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
+ <a href="[https://www.linkedin.com/in/joy-christine-nduta-kimani-0043a1136/](https://www.linkedin.com/in/johannesheinemann/)](https://www.linkedin.com/in/johannesheinemann/)" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
 </div>
 
