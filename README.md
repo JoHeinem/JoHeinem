@@ -1,8 +1,6 @@
-### Hi there 👋
-
- ### Hi, I'm [Johannes](https://github.com/JoHeinem), welcome to my page.
+### Hi, I'm [Johannes](https://github.com/JoHeinem), welcome to my page.
  
- ### About Me
+### About Me
 
 There're few things more rewarding to me than to see how people accomplish their best and move mountains. I love helping engineers grow through coaching, mentorship, and leveraging them to excel at their work.
 
